@@ -1,4 +1,4 @@
-# snake
+# Snake
 
 Creation of the Snake game made in JavaScript for a school project during an intensive week.
 
